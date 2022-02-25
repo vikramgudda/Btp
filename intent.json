@@ -21,8 +21,32 @@
         "id": "4",
         "tag":"branches",
         "text":["What are the branches available in IIIT's?","What are the branches available in IIT's?","What are the branches available in NIT's?",""]
+      }
+      {
+        "id": "5",
+        "tag":"modeofexam",
+        "text":[]
     
       }
+      {
+        "id": "6",
+        "tag":"totalfees",
+        "text":[]
+    
+      }
+      {
+        "id": "7",
+        "tag":"placements",
+        "text":[]
+    
+      }
+      {
+        "id": "8",
+        "tag":"facilities",
+        "text":[]
+    
+      }
+    
     ]
   }
 }
