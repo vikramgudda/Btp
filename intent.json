@@ -1,0 +1,22 @@
+{
+  "intent": {
+    "Basicinfo": [
+      {
+        "id": "1",
+        "tag":"ugseats",
+        "text":["How many total number of undergraduate seats are there in IITS?","Which IIT has maximum number of ug seats?","Name the NIT which has less number of ug seats?","How many total number of undergraduate seats are there in NITS","which IIIT has less number of ug seats?",""]
+        },
+      {
+        "id": "2",
+        "tag":"course",
+        "text":[]
+      },
+      {
+        "id": "3",
+        "tag":"placements",
+        "text":[]
+    
+      }
+    ]
+  }
+}
