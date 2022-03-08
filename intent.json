@@ -36,16 +36,20 @@
       }
       {
         "id": "7",
-        "tag":"placements",
-        "text":[]
-    
-      }
-      {
-        "id": "8",
         "tag":"facilities",
         "text":[]
-    
       }
+      {
+         "id":"8",
+        "tag":"visitingcompanies",
+        "text":[]
+      }
+      {
+        "id": "9",
+        "tag":"adress",
+        "text":[]
+      }
+  
     
     ]
   }
