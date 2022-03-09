@@ -31,7 +31,9 @@
       {
         "id": "6",
         "tag":"totalfees",
-        "text":[]
+        "text":["Which college has the highest total fees among IIITS,IITS,NITS?","Which IIT has the highest total fees?","What is the total fees in IIIT Sri City?","In NIT Warangal, do we need to pay fees, or is it totally free? How much fee do we need to pay?"
+                ""
+               ]
     
       }
       {
