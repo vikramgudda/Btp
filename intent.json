@@ -4,7 +4,7 @@
       {
         "id": "1",
         "tag":"ugseats",
-        "text":["How many total number of undergraduate seats are there in IITS?","Which IIT has maximum number of ug seats?","Name the NIT which has less number of ug seats?","How many total number of undergraduate seats are there in NITS","which IIIT has less number of ug seats?","How many number of ug seats are there in IIT bombay?","How many number of colleges have more than 1000 number of ugseats?","Which college has less number of ug seats?","How many total number of ug seats are there in all colleges?",""]
+        "text":["How many total number of undergraduate seats are there in IITS?","Which IIT has maximum number of ug seats?","Name the NIT which has the least number of ug seats?","How many total number of undergraduate seats are there in NITS","which IIIT has less number of ug seats?","How many number of ug seats are there in IIT bombay?","How many number of colleges have more than 1000 number of ugseats?","Which college has less number of ug seats?","How many total number of ug seats are there in all colleges?",""]
         },
       {
         "id": "2",
@@ -16,18 +16,18 @@
         "tag":"placements",
         "text":[]
     
-      }
+      },
       {
         "id": "4",
         "tag":"branches",
         "text":["What are the branches available in IIIT's?","What are the branches available in IIT's?","What are the branches available in NIT's?",""]
-      }
+      },
       {
         "id": "5",
-        "tag":"modeofexam",
-        "text":[]
+        "tag":"Entrance exam",
+        "text":["Which exam is required to join IIT?","Is Jee Mains the criteria for NIT's?",""]
     
-      }
+      },
       {
         "id": "6",
         "tag":"totalfees",
