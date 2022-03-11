@@ -21,12 +21,13 @@
         "id": "4",
         "tag":"branches",
         "text":["What are the branches available in IIIT's?","What are the branches available in IIT's?","What are the branches available in NIT's?",""]
+        "responses":[""]
       },
       {
         "id": "5",
         "tag":"Entrance exam",
-        "text":["Which exam is required to join IIT?","Is Jee Mains the criteria for NIT's?",""]
-    
+        "text":["Which exam is required to join IIT?","Is Jee Mains the criteria for NIT's?","What exam should you write to join IIIT Allahabad?","Why is IIT JEE important?","Is it okay if we clear only JEE Main? Can we get a good engineering college?",""]
+        "responses":["","",""]
       },
       {
         "id": "6",
@@ -34,22 +35,26 @@
         "text":["Which college has the highest total fees among IIITS,IITS,NITS?","Which IIT has the highest total fees?","What is the total fees in IIIT Sri City?","In NIT Warangal, do we need to pay fees, or is it totally free? How much fee do we need to pay?"
                 ""
                ]
+        "responses":[""]
     
       }
       {
         "id": "7",
         "tag":"facilities",
         "text":[]
+        "responses":[""]
       }
       {
          "id":"8",
         "tag":"visitingcompanies",
         "text":[]
+        "responses":[""]
       }
       {
         "id": "9",
         "tag":"adress",
         "text":[]
+        "responses":[""]
       }
   
     
