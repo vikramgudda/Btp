@@ -1,6 +1,6 @@
 {
   "intent": {
-    "Basicinfo": [
+   
       {
         "id": "1",
         "tag":"ugseats",
@@ -14,7 +14,7 @@
       {
         "id": "3",
         "tag":"placements",
-        "text":["Does IIT have 100 placement?","What is the average package offered to IIT students?"]
+        "text":["Does IIT have 100 placement?","What is the average package offered to IIT students?", ]
     
       },
       {
@@ -37,27 +37,27 @@
                ]
         "responses":[""]
     
-      }
+      },
       {
         "id": "7",
         "tag":"facilities",
         "text":["What are the facilities are in the IIT hostel?","Why don't IITs offer Ac in hostel rooms?","Which IIT has the best hostel rooms?","on What basis are the hostel rooms alloted in IIT?","How is the life in IIT hostel?",""]
         "responses":[]
-      }
+      },
       {
          "id":"8",
         "tag":"visitingcompanies",
         "text":[]
         "responses":[""]
-      }
+      },
       {
         "id": "9",
         "tag":"adress",
         "text":[]
         "responses":[""]
       }
-  
     
-    ]
+  
+
   }
 }
