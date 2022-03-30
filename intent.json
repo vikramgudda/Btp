@@ -20,13 +20,13 @@
       {
         "id": "4",
         "tag":"branches",
-        "text":["What are the branches available in IIIT's?","What are the branches available in IIT's?","What are the branches available in NIT's?",""]
+        "text":["What are the branches available in IIIT's?","What are the branches available in IIT's?","What are the branches available in NIT's?","Is MBA branch available in all IIIT institutes?",""]
         "responses":[""]
       },
       {
         "id": "5",
         "tag":"Entrance exam",
-        "text":["Which exam is required to join IIT?","Is Jee Mains the criteria for NIT's?","What exam should you write to join IIIT Allahabad?","Why is IIT JEE important?","Is it okay if we clear only JEE Main? Can we get a good engineering college?",""]
+        "text":["Which exam is required to join IIT?","Is Jee Mains the criteria for NIT's?","What exam should you write to join IIIT Allahabad?","Why is IIT JEE important?","Is it okay if we clear only JEE Main? Can we get a good engineering college?","Should we clear JEE Mains to write JEE Advanced?",""]
         "responses":["","",""]
       },
       {
