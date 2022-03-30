@@ -9,7 +9,7 @@
       {
         "id": "2",
         "tag":"course",
-        "text":["what are the courses offered by iit roorkee?","Is mechanical engineering is offered by iiit sricity?","Name the colleges which offers the civil engineering course?","Name the nits which offers biotechnolgy course?",""]
+        "text":["what are the branches offered by iit roorkee?","Is mechanical engineering is offered by iiit sricity?","Name the colleges which offers the civil engineering?","Name the nits which offers biotechnolgy ?","What are the branches available in IIIT's?","What are the branches available in IIT's?","What are the branches available in NIT's?","Is MBA branch available in all IIIT institutes?"]
       },
       {
         "id": "3",
@@ -20,7 +20,7 @@
       {
         "id": "4",
         "tag":"branches",
-        "text":["What are the branches available in IIIT's?","What are the branches available in IIT's?","What are the branches available in NIT's?","Is MBA branch available in all IIIT institutes?",""]
+        "text":[,""]
         "responses":[""]
       },
       {
