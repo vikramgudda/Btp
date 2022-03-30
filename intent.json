@@ -19,18 +19,12 @@
       },
       {
         "id": "4",
-        "tag":"branches",
-        "text":[,""]
-        "responses":[""]
-      },
-      {
-        "id": "5",
         "tag":"Entrance exam",
         "text":["Which exam is required to join IIT?","Is Jee Mains the criteria for NIT's?","What exam should you write to join IIIT Allahabad?","Why is IIT JEE important?","Is it okay if we clear only JEE Main? Can we get a good engineering college?","Should we clear JEE Mains to write JEE Advanced?",""]
         "responses":["","",""]
       },
       {
-        "id": "6",
+        "id": "5",
         "tag":"totalfees",
         "text":["Which college has the highest total fees among IIITS,IITS,NITS?","Which IIT has the highest total fees?","What is the total fees in IIIT Sri City?","In NIT Warangal, do we need to pay fees, or is it totally free? How much fee do we need to pay?"
                 "Which college has the cheapest fee structure?","Which college has lower fees among IIT Bombay and IIT Chennai?","Are few IITs have lower fees than IIITs?"
@@ -39,19 +33,19 @@
     
       },
       {
-        "id": "7",
+        "id": "6",
         "tag":"facilities",
         "text":["What are the facilities are in the IIT hostel?","Why don't IITs offer Ac in hostel rooms?","Which IIT has the best hostel rooms?","on What basis are the hostel rooms alloted in IIT?","How is the life in IIT hostel?",""]
         "responses":[]
       },
       {
-         "id":"8",
+         "id":"7",
         "tag":"visitingcompanies",
         "text":[]
         "responses":[""]
       },
       {
-        "id": "9",
+        "id": "8",
         "tag":"address",
         "text":[]
         "responses":[""]
