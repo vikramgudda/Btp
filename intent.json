@@ -58,16 +58,11 @@
       }
       {
         "id":"10",
-        "tag":"Opening Rank",
+        "tag":"Rank",
         "text":["I have a rank of 12000 in JEE Mains,What are the colleges I can get in the first round ?",""]
         "responses":[""]
       }
-      {
-        "id":"11",
-        "tag":"",
-        "text":[]
-        "responses":[""]
-      }
+    
 
   
 
