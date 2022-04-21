@@ -8,7 +8,7 @@
         },
       {
         "id": "2",
-        "tag":"course",
+        "tag":"Branch",
         "text":["what are the branches offered by iit roorkee?","Is mechanical engineering is offered by iiit sricity?","Name the colleges which offers the civil engineering?","Name the nits which offers biotechnolgy ?","What are the branches available in IIIT's?","What are the branches available in IIT's?","What are the branches available in NIT's?","Is MBA branch available in all IIIT institutes?"]
       },
       {
@@ -47,10 +47,33 @@
       {
         "id": "8",
         "tag":"address",
-        "text":["Where is the IIT Delhi Located?","Where is the NIT Delhi Located?","Where is the IIIT Delhi Located?",]
+        "text":["Where is the IIT Delhi Located?","Where is the NIT Delhi Located?","Where is the IIIT Delhi Located?","How many colleges are present in Andhra pradesh?","Are there any colleges in Kashmir?",""]
         "responses":[""]
       }
-    
+      {
+        "id":"9",
+        "tag":"ownership",
+        "text":["Is IIIT Sri City run in PPP mode?","How many colleges are run by the Government?","How many colleges are run in PPP mode?","Are all IIIT colleges run in PPP mode?",""]
+        "responses":[""]
+      }
+      {
+        "id":"10",
+        "tag":"Opening Rank",
+        "text":["I have a rank of 12000 in JEE Mains,What are the colleges I can get in the first round ?",""]
+        "responses":[""]
+      }
+      {
+        "id":"11",
+        "tag":"",
+        "text":[]
+        "responses":[""]
+      }
+
+  
+
+  
+
+ 
   
 
   }
