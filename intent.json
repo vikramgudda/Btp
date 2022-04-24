@@ -26,7 +26,6 @@
         "id": "4",
         "tag":"Entrance exam",
         "text":["Which exam is required to join IIT?","Is Jee Mains the criteria for NIT's?","What exam should you write to join IIIT Allahabad?","Why is IIT JEE important?","Is it okay if we clear only JEE Main? Can we get a good engineering college?","Should we clear JEE Mains to write JEE Advanced?",""]
-        "responses":["","",""]
       },
       {
         "id": "5",
@@ -34,39 +33,35 @@
         "text":["Which college has the highest total fees among IIITS,IITS,NITS?","Which IIT has the highest total fees?","What is the total fees in IIIT Sri City?","In NIT Warangal, do we need to pay fees, or is it totally free? How much fee do we need to pay?"
                 "Which college has the cheapest fee structure?","Which college has lower fees among IIT Bombay and IIT Chennai?","Are few IITs have lower fees than IIITs?"
                ]
-        "responses":[""]
+
     
       },
       {
         "id": "6",
         "tag":"facilities",
         "text":["What are the facilities are in the IIT hostel?","Why don't IITs offer Ac in hostel rooms?","Which IIT has the best hostel rooms?","on What basis are the hostel rooms alloted in IIT?","How is the life in IIT hostel?",""]
-        "responses":[]
       },
       {
          "id":"7",
         "tag":"visitingcompanies",
         "text":["What are the Top Companies visited IIT Delhi?","What are the Top Companies visited NIT Delhi?","What are the Top Companies visited IIIT Delhi ?","How many Companies visited IIt Delhi?","Which companies Most Visited To IITs?","How Much CTC Offer for students in IITs?","Is FAANG Companies Visits IITs?","Which IIT is the least for Visisted Companies?","What is 0 Companies?","What are the Most Companies visited in IITs?",""]
-        "responses":[""]
       },
       {
         "id": "8",
         "tag":"address",
         "text":["Where is the IIT Delhi Located?","Where is the NIT Delhi Located?","Where is the IIIT Delhi Located?","How many colleges are present in Andhra pradesh?","Are there any colleges in Kashmir?","How many colleges in Andhra Pradesh?","IIT Chennai is located in which state?","Total How many colleges are present in Maharashtra?",
                "What is the name of the college present in Imphal?","Where is NIT Jalandhar located?",""]
-        "responses":[""]
-      }
+    
+      },
       {
         "id":"9",
         "tag":"ownership",
         "text":["Is IIIT Sri City run in PPP mode?","How many colleges are run by the Government?","How many colleges are run in PPP mode?","Are all IIIT colleges run in PPP mode?",""]
-        "responses":[""]
-      }
+      },
       {
         "id":"10",
         "tag":"Rank",
-        "text":["I have a rank of 12000 in JEE Mains,What are the colleges I can get in the first round ?",""]
-        "responses":[""]
+        "text":["I have a rank of 12000 in JEE Mains,What are the colleges I can get in the first round ?","Do i get Computer science for the rank of 6000 in jee mains in nits?","which college is better for the rank of 6000 in jee advance?","Name the colleges that are eligible for rank 3000 in jee mains?","What is expected cuttoff rank for jee mains?","Do i get any colleges with rank of 50000 in jee mains?","What is expected cuttoff rank for jee advance?","what will be the cuttoff rank for st category students in jee mains?","what will be the cuttoff rank for sc category students in jee advance?",]
       }
     
 
