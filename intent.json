@@ -5,17 +5,21 @@
         "id": "1",
         "tag":"ugseats",
         "text":["How many total number of undergraduate seats are there in IITS?","Which IIT has maximum number of ug seats?","Name the NIT which has the least number of ug seats?","How many total number of undergraduate seats are there in NITS","which IIIT has less number of ug seats?","How many number of ug seats are there in IIT bombay?","How many number of colleges have more than 1000 number of ugseats?","Which college has less number of ug seats?","How many total number of ug seats are there in all colleges?","How many Ugseats are present in all of IIT,IIIT and NIT",
-                 "How many Ugseats are available for general in IIT?","How many Ugseats for Female Category in NIT Warangal?","Do IIT have UGseats for SC,ST category?","Ugseats count for Electrical engineering in NIT?",""]
+                 "How many Ugseats are available for general in IIT?","How many Ugseats for Female Category in NIT Warangal?","Do IIT have UGseats for SC,ST category?","Ugseats count for Electrical engineering in NIT?","How many seats are the for Pwd in all NITs?",
+                 ""]
         },
       {
         "id": "2",
         "tag":"Branch",
-        "text":["what are the branches offered by iit roorkee?","Is mechanical engineering is offered by iiit sricity?","Name the colleges which offers the civil engineering?","Name the nits which offers biotechnolgy ?","What are the branches available in IIIT's?","What are the branches available in IIT's?","What are the branches available in NIT's?","Is MBA branch available in all IIIT institutes?"]
+        "text":["what are the branches offered by iit roorkee?","Is mechanical engineering is offered by iiit sricity?","Name the colleges which offers the civil engineering?","Name the nits which offers biotechnolgy ?","What are the branches available in IIIT's?","What are the branches available in IIT's?","What are the branches available in NIT's?","Is MBA branch available in all IIIT institutes?",
+                "Display the list of colleges that have Aerospace Engineering as a branch?","Does IIIT Sonepat have Information Technology branch?","What colleges offer Metallurgic energy as a course?","List the branches available in NIT Srinagar?","List the colleges that have branches other than CSE and ECE?","How many colleges have Information for Technology branch?","Do all colleges have CSE branch?",
+                 "Does any college have AI/ML as a branch?","How many colleges do not have Electronics and Communication Engineering branch?","Which colleges have chemical engineering branch in NITs?"]
       },
       {
         "id": "3",
         "tag":"placements",
-        "text":["What is the average package offered to IIT students?","Which engineering college offers better placement?","Who are the top recruiters at iit madras?","Is iit madras or iit bombay are better at placements?","Compare the placmenets of nit raipur and iiit sricity?","Name the top 10 colleges which are good at placements?","Who are the recriuters at iiit sricity?", "Which NIT offers better placement?","Is iit jammu is good at placements?"]
+        "text":["What is the average package offered to IIT students?","Which engineering college offers better placement?","Who are the top recruiters at iit madras?","Is iit madras or iit bombay are better at placements?","Compare the placmenets of nit raipur and iiit sricity?","Name the top 10 colleges which are good at placements?","Who are the recriuters at iiit sricity?", "Which NIT offers better placement?","Is iit jammu is good at placements?"
+                ""]
     
       },
       {
@@ -48,7 +52,8 @@
       {
         "id": "8",
         "tag":"address",
-        "text":["Where is the IIT Delhi Located?","Where is the NIT Delhi Located?","Where is the IIIT Delhi Located?","How many colleges are present in Andhra pradesh?","Are there any colleges in Kashmir?",""]
+        "text":["Where is the IIT Delhi Located?","Where is the NIT Delhi Located?","Where is the IIIT Delhi Located?","How many colleges are present in Andhra pradesh?","Are there any colleges in Kashmir?","How many colleges in Andhra Pradesh?","IIT Chennai is located in which state?","Total How many colleges are present in Maharashtra?",
+               "What is the name of the college present in Imphal?","Where is NIT Jalandhar located?",""]
         "responses":[""]
       }
       {
