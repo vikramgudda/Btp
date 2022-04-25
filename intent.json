@@ -5,8 +5,8 @@
         "id": "1",
         "tag":"ugseats",
         "text":["How many total number of undergraduate seats are there in IITS?","Which IIT has maximum number of ug seats?","Name the NIT which has the least number of ug seats?","How many total number of undergraduate seats are there in NITS","which IIIT has less number of ug seats?","How many number of ug seats are there in IIT bombay?","How many number of colleges have more than 1000 number of ugseats?","Which college has less number of ug seats?","How many total number of ug seats are there in all colleges?","How many Ugseats are present in all of IIT,IIIT and NIT",
-                 "How many Ugseats are available for general in IIT?","How many Ugseats for Female Category in NIT Warangal?","Ugseats count for Electrical engineering in NIT?","How many colleges have less than 1000 Ug seats?","Which college has more seats IIITDM Kancheepuram or IIIT Sri City?","Which college has the lowest amount of UG seats?","How many Ug seats does IIT Dhanbad have?","Does IIT Delhi have more than 1000 seats?","How many total Ugseats are there in India?","How many seats are there in total of NIT and IIIT?","Do few IIITs have very less seats? How many does IIIT Bhopal have?"
-                 ]
+                 "How many Ugseats are available for general in IIT?","How many Ugseats are in NIT Warangal?","Ugseats count for Electrical engineering in NIT?","How many colleges have less than 1000 Ug seats?","Which college has more seats IIITDM Kancheepuram or IIIT Sri City?","Which college has the lowest amount of UG seats?","How many Ug seats does IIT Dhanbad have?","Does IIT Delhi have more than 1000 seats?","How many total Ugseats are there in India?","How many seats are there in total of NIT and IIIT?","Do few IIITs have very less seats? How many does IIIT Bhopal have?"
+                 ""]
         },
       {
         "id": "2",
@@ -18,7 +18,7 @@
       {
         "id": "3",
         "tag":"placements",
-        "text":["What is the average package offered to IIT students?","Which engineering college offers best placement?","What is the average salary in IIIT Sri city?","What is the highest salary offered "]
+        "text":["What is the average package offered to IIT students?","Which engineering college offers best placement?","What is the average salary in IIIT Sri city?","What was the highest package offered in IIT Chennai?",""]
     
       },
       {
@@ -29,7 +29,7 @@
       },
       {
         "id": "5",
-        "tag":"totalfees",
+        "tag":"averagefees",
         "text":["Which college has the highest total fees among IIITS,IITS,NITS?","Which IIT has the highest total fees?","What is the total fees in IIIT Sri City?","In NIT Warangal, do we need to pay fees, or is it totally free? How much fee do we need to pay?"
                 "Which college has the cheapest fee structure?","Which college has lower fees among IIT Bombay and IIT Chennai?","Are few IITs have lower fees than IIITs?"]
 
@@ -38,7 +38,8 @@
       {
         "id": "6",
         "tag":"facilities",
-        "text":["What are the facilities are in the IIT hostel?","Why don't IITs offer Ac in hostel rooms?","Which IIT has the best hostel rooms?","on What basis are the hostel rooms alloted in IIT?","How is the life in IIT hostel?","What are few facilities in IIIT Sri City?",""]
+        "text":["What are the facilities are in the IIT hostel?","Why don't IITs offer Ac in hostel rooms?","Which IIT has the best hostel rooms?","on What basis are the hostel rooms alloted in IIT?","How is the life in IIT hostel?","What are few facilities in IIIT Sri City?","Name some facilities in IIT Guwahati?","I want to join IIIT Kalyani,Does It have good transportation facility?","Does IIIT Sri city have bank facility available?","Do IIT Chennai have AC?","What about Hostel facilities in IIIT colleges?Are there hostels readily available?"
+                ""]
       },
       {
          "id":"7",
