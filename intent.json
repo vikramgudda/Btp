@@ -5,8 +5,8 @@
         "id": "1",
         "tag":"ugseats",
         "text":["How many total number of undergraduate seats are there in IITS?","Which IIT has maximum number of ug seats?","Name the NIT which has the least number of ug seats?","How many total number of undergraduate seats are there in NITS","which IIIT has less number of ug seats?","How many number of ug seats are there in IIT bombay?","How many number of colleges have more than 1000 number of ugseats?","Which college has less number of ug seats?","How many total number of ug seats are there in all colleges?","How many Ugseats are present in all of IIT,IIIT and NIT",
-                 "How many Ugseats are available for general in IIT?","How many Ugseats for Female Category in NIT Warangal?","Do IIT have UGseats for SC,ST category?","Ugseats count for Electrical engineering in NIT?","How many seats are the for Pwd in all NITs?",
-                 ""]
+                 "How many Ugseats are available for general in IIT?","How many Ugseats for Female Category in NIT Warangal?","Ugseats count for Electrical engineering in NIT?","How many colleges have less than 1000 Ug seats?","Which college has more seats IIITDM Kancheepuram or IIIT Sri City?","Which college has the lowest amount of UG seats?","How many Ug seats does IIT Dhanbad have?","Does IIT Delhi have more than 1000 seats?","How many total Ugseats are there in India?","How many seats are there in total of NIT and IIIT?","Do few IIITs have very less seats? How many does IIIT Bhopal have?"
+                 ]
         },
       {
         "id": "2",
@@ -39,12 +39,12 @@
       {
         "id": "6",
         "tag":"facilities",
-        "text":["What are the facilities are in the IIT hostel?","Why don't IITs offer Ac in hostel rooms?","Which IIT has the best hostel rooms?","on What basis are the hostel rooms alloted in IIT?","How is the life in IIT hostel?",""]
+        "text":["What are the facilities are in the IIT hostel?","Why don't IITs offer Ac in hostel rooms?","Which IIT has the best hostel rooms?","on What basis are the hostel rooms alloted in IIT?","How is the life in IIT hostel?","What are few facilities in IIIT Sri City?",""]
       },
       {
          "id":"7",
         "tag":"visitingcompanies",
-        "text":["What are the Top Companies visited IIT Delhi?","What are the Top Companies visited NIT Delhi?","What are the Top Companies visited IIIT Delhi ?","How many Companies visited IIt Delhi?","Which companies Most Visited To IITs?","How Much CTC Offer for students in IITs?","Is FAANG Companies Visits IITs?","Which IIT is the least for Visisted Companies?","What is 0 Companies?","What are the Most Companies visited in IITs?",""]
+        "text":["What are the Top Companies visited IIT Delhi?","What are the Top Companies visited NIT Delhi?","What are the Top Companies visited IIIT Delhi ?","How many Companies visited IIt Delhi?","Which companies Most Visited To IITs?","Is FAANG Companies Visits IITs?","Which IIT is the least for Visisted Companies?","What is 0 Companies?","What are the Most Companies visited in IITs?",""]
       },
       {
         "id": "8",
