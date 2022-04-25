@@ -18,7 +18,7 @@
       {
         "id": "3",
         "tag":"placements",
-        "text":["What is the average package offered to IIT students?","Which engineering college offers best placement?","What is the average salary in IIIT Sri city"
+        "text":["What is the average package offered to IIT students?","Which engineering college offers best placement?","What is the average salary in IIIT Sri city?","What is the highest salary offered "]
     
       },
       {
@@ -31,8 +31,7 @@
         "id": "5",
         "tag":"totalfees",
         "text":["Which college has the highest total fees among IIITS,IITS,NITS?","Which IIT has the highest total fees?","What is the total fees in IIIT Sri City?","In NIT Warangal, do we need to pay fees, or is it totally free? How much fee do we need to pay?"
-                "Which college has the cheapest fee structure?","Which college has lower fees among IIT Bombay and IIT Chennai?","Are few IITs have lower fees than IIITs?"
-               ]
+                "Which college has the cheapest fee structure?","Which college has lower fees among IIT Bombay and IIT Chennai?","Are few IITs have lower fees than IIITs?"]
 
     
       },
@@ -44,7 +43,7 @@
       {
          "id":"7",
         "tag":"visitingcompanies",
-        "text":["What are the Top Companies visited IIT Delhi?","What are the Top Companies visited NIT Delhi?","What are the Top Companies visited IIIT Delhi ?","How many Companies visited IIt Delhi?","Which companies Most Visited To IITs?","Is FAANG Companies Visits IITs?","Which IIT is the least for Visisted Companies?","What is 0 Companies?","What are the Most Companies visited in IITs?",""]
+        "text":["What are the Top Companies visited IIT Delhi?","What are the Top Companies visited NIT Delhi?","What are the Top Companies visited IIIT Delhi ?","How many Companies visited IIt Delhi?","Which companies Most Visited To IITs?","Is FAANG Companies Visits IITs?","Which IIT is the least for Visisted Companies?","What is 0 Companies?","What are the Most Companies visited in IITs?","Which are the dream companies that visit only IIT Mumbai?","What are few top colleges that visited NIT Bhopal?","Does Apple visit IIT Chennai?",""]
       },
       {
         "id": "8",
@@ -58,7 +57,7 @@
         "id":"9",
         "tag":"ownership",
         "text":["Is IIIT Sri City run in PPP mode?","How many colleges are run by the Government?","How many colleges are run in PPP mode?","Are all IIIT colleges run in PPP mode?","What is PPP mode?","Area all IITs and NITs run by Government?","Does the Governement of India own all these colleges or any other Organization owns it?","List all the colleges that has been run by Government?","What is PPP mode for colleges?","IIITDM Kurnool is run by?","IIIT Kancheepuram,IIIT Jabalpur,IIIT Allahabad are run by government or in PPP mode?"
-               "How many colleges are owned by government in total? What are they?","Is IIIT Sri city run in PPP mode or by the Governement?",""]
+               "How many colleges are owned by government in total? What are they?","Is IIIT Sri city run in PPP mode or by the Governement?","Which college to choose those run on PPP mode or run by Government?","What are those colleges established in the recent years run in PPP mode?","Does it matter who runs the college PPP mode or Government?","Why are some colleges are not owned by Government? "]
       },
       {
         "id":"10",
