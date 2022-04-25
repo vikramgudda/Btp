@@ -5,8 +5,7 @@
         "id": "1",
         "tag":"ugseats",
         "text":["How many total number of undergraduate seats are there in IITS?","Which IIT has maximum number of ug seats?","Name the NIT which has the least number of ug seats?","How many total number of undergraduate seats are there in NITS","which IIIT has less number of ug seats?","How many number of ug seats are there in IIT bombay?","How many number of colleges have more than 1000 number of ugseats?","Which college has less number of ug seats?","How many total number of ug seats are there in all colleges?","How many Ugseats are present in all of IIT,IIIT and NIT",
-                 "How many Ugseats are available for general in IIT?","How many Ugseats are in NIT Warangal?","Ugseats count for Electrical engineering in NIT?","How many colleges have less than 1000 Ug seats?","Which college has more seats IIITDM Kancheepuram or IIIT Sri City?","Which college has the lowest amount of UG seats?","How many Ug seats does IIT Dhanbad have?","Does IIT Delhi have more than 1000 seats?","How many total Ugseats are there in India?","How many seats are there in total of NIT and IIIT?","Do few IIITs have very less seats? How many does IIIT Bhopal have?"
-                 ""]
+                 "How many Ugseats are available for general in IIT?","How many Ugseats are in NIT Warangal?","Ugseats count in NIT?","How many colleges have less than 1000 Ug seats?","Which college has more seats IIITDM Kancheepuram or IIIT Sri City?","Which college has the lowest amount of UG seats?","How many Ug seats does IIT Dhanbad have?","Does IIT Delhi have more than 1000 seats?","How many total Ugseats are there in India?","How many seats are there in total of NIT and IIIT?","Do few IIITs have very less seats? How many does IIIT Bhopal have?"]
         },
       {
         "id": "2",
@@ -18,7 +17,8 @@
       {
         "id": "3",
         "tag":"placements",
-        "text":["What is the average package offered to IIT students?","Which engineering college offers best placement?","What is the average salary in IIIT Sri city?","What was the highest package offered in IIT Chennai?",""]
+        "text":["What is the average package offered to IIT students?","Which engineering college offers best placement?","What is the average salary in IIIT Sri city?","What was the highest package offered in IIT Chennai?","Highest package in IIIT Kancheepuram?","How did NIT Surat fared in placements?","What are some best IIT based according to placement packages?"
+               "What was the average package for this year in NIT Surat?"]
     
       },
       {
@@ -39,12 +39,12 @@
         "id": "6",
         "tag":"facilities",
         "text":["What are the facilities are in the IIT hostel?","Why don't IITs offer Ac in hostel rooms?","Which IIT has the best hostel rooms?","on What basis are the hostel rooms alloted in IIT?","How is the life in IIT hostel?","What are few facilities in IIIT Sri City?","Name some facilities in IIT Guwahati?","I want to join IIIT Kalyani,Does It have good transportation facility?","Does IIIT Sri city have bank facility available?","Do IIT Chennai have AC?","What about Hostel facilities in IIIT colleges?Are there hostels readily available?"
-                ""]
+                "Auditorium is available in IIT Kharagpur or not?","I want to know if there is a swimming pool for relaxation in IIT Dhanbad?"]
       },
       {
          "id":"7",
         "tag":"visitingcompanies",
-        "text":["What are the Top Companies visited IIT Delhi?","What are the Top Companies visited NIT Delhi?","What are the Top Companies visited IIIT Delhi ?","How many Companies visited IIt Delhi?","Which companies Most Visited To IITs?","Is FAANG Companies Visits IITs?","Which IIT is the least for Visisted Companies?","What is 0 Companies?","What are the Most Companies visited in IITs?","Which are the dream companies that visit only IIT Mumbai?","What are few top colleges that visited NIT Bhopal?","Does Apple visit IIT Chennai?",""]
+        "text":["What are the Top Companies visited IIT Delhi?","What are the Top Companies visited NIT Delhi?","What are the Top Companies visited IIIT Delhi ?","How many Companies visited IIt Delhi?","Which companies Most Visited To IITs?","Is FAANG Companies Visits IITs?","Which IIT is the least for Visisted Companies?","What is 0 Companies?","What are the Most Companies visited in IITs?","Which are the dream companies that visit only IIT Mumbai?","What are few top colleges that visited NIT Bhopal?","Does Apple visit IIT Chennai?","Please let me know If Store is available in these colleges?"]
       },
       {
         "id": "8",
